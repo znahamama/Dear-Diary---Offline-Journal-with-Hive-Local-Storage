@@ -5,8 +5,8 @@ The **Dear Diary App** is a lightweight, offline journal that allows users to lo
 
 ## Video Demo
 <a href="https://www.youtube.com/shorts/DIgeB33kFfw">
-  <img src="![deardiary-vid](https://github.com/user-attachments/assets/0a1f5e08-2600-4054-92fd-62f034684688)" 
-       alt="Click to play video" width="300" height="180"/>
+  <img src="https://github.com/user-attachments/assets/0a1f5e08-2600-4054-92fd-62f034684688" 
+       alt="Click to play video" width="300" height="600"/>
 </a>
 
 ---
